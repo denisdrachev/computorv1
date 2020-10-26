@@ -1,0 +1,11 @@
+app/Application.java
+app/ElementsManipulator.java
+app/exceptions/ValidateException.java
+app/input/ConsoleReader.java
+app/InputParser.java
+app/InputValidator.java
+app/MathManipulator.java
+app/Model/Element.java
+app/output/ConsolePrinter.java
+app/PrepareInput.java
+app/Way.java
